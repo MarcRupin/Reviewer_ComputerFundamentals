@@ -1,4 +1,4 @@
-# Reviewer for Computer Fundamentals and Programming
+# Reviewer for Computer Fundamentals and Programming (C++)
 
 This repository contains the source code for all solutions in the problem written in the reviewer made by Marc Deo Jeremiah V. Rupin for the Pamantasan ng Lungsod ng Maynila - Chemical Engineering Students' Society (PLM-ChESS). 
 
